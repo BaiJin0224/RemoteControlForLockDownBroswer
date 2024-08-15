@@ -4,7 +4,7 @@
 
 而且主流的远程软件会在重连的时候弹窗提示用户已被控制，这种弹窗就会被检测到，在网络条件不好的情况下是一种致命的问题。
 
-个人开发了一款专用的远程软件，虽然不能做到主流远程软件的体验，但是可以控制设备打字，也可以捕获设备画面，而且使用极为方便，只需要启动软件即可，不需要更改系统注册表啊什么的，虚拟机也不需要，直接在物理机上就可以完成远程控制，可以说是一键式解决方案，有兴趣的小伙伴可以私信我！或者绿色软件搜索关键词：Wonderful_U_010224
+个人开发了一款专用的远程软件，使用极为方便，只需要启动软件即可，不需要更改系统注册表啊什么的，虚拟机也不需要，直接在物理机上就可以完成远程控制，可以说是一键式解决方案，有兴趣的小伙伴可以私信我！或者绿色软件搜索关键词：Wonderful_U_010224
 
 
 First of all, LockDownBroswer disables most of the communication software and remote control software, so it is unlikely to bypass it by using QQ, WX, Sunflower or ToDesk.
@@ -13,4 +13,12 @@ Secondly, this software will detect whether you have screen switching and shortc
 
 Moreover, mainstream remote software will pop up a window to remind the user that the user has been controlled when reconnecting. This pop-up window will be detected, which is a fatal problem under poor network conditions.
 
-I have developed a dedicated remote software. Although it cannot provide the experience of mainstream remote software, it can control the device to type and capture the device screen. It is also very easy to use. You only need to start the software. You don’t need to change the system registry or a virtual machine. You can complete the remote control directly on the physical machine. It can be said to be a one-click solution. If you are interested, you can send me a private message! Or contact me with WeChat: Wonderful_U_010224
+I have developed a dedicated remote software.It is also very easy to use. You only need to start the software. You don’t need to change the system registry or a virtual machine. You can complete the remote control directly on the physical machine. It can be said to be a one-click solution. If you are interested, you can send me a private message! 
+Or contact me with 
+WeChat: Wonderful_U_010224
+Mail:   bfzgsz@foxmail.com
+
+![Picture1](./screen/1.png "Example1")
+![Picture2](./screen/2.png "Example2")
+![Picture3](./screen/3.png "Example3")
+![Picture4](./screen/4.png "Example4")
