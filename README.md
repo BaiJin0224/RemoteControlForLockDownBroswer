@@ -1,20 +1,37 @@
-首先LockDownBroswer禁用了绝大多数的通讯软件与远程控制软件，所以想着使用QQ、WX、向日葵或者ToDesk来绕过的话是不太可能的。
+LockDownBroswer专用远程软件
+以下简称LockDownBroswer为LDB
 
-其次这个软件会检测你是否有切屏和快捷键行为，之前使用win+TAB切换桌面的办法确实可行，确实可以切换到其他桌面，然后你就会发现它恶心的一点，它修改了键盘的映射关系，比如你按下A，实际上是按下了别的按键，只有返回到它的浏览器页面，按键功能才正常。所以如果想着使用快捷键来切屏查资料，这种方式已经是行不通了。更何况有的学校不仅仅使用这个软件，还会要求你线下考试，那么你怎么办呢？即便可以切屏，你确定不会被监考和instructor发现吗？即便发现不了，实测部分学校可以设置切屏就报告或者先警告再报告instructor，而且还可以设置截屏，所以这些方法风险性都很大。
+用过LDB的小伙伴都知道，这款软件禁用了绝大多数的社交通讯软件与远程控制软件，比如向日葵、toDesk、rustDesk与WhatsApp、QQ、WeChat。
+而且所有的远程控制软件在建立控制连接的时候，都会弹窗提示，这种弹窗极容易被LDB检测到，从而捕捉屏幕截图，并且报告给学校。如果你的网络环境不稳定，极容易被LDB发现。
 
-而且主流的远程软件会在重连的时候弹窗提示用户已被控制，这种弹窗就会被检测到，在网络条件不好的情况下是一种致命的问题。
+其次这个软件会检测你是否有切屏和快捷键行为，之前使用win+TAB确实可以切换桌面，但是LDB在检测到你不在LDB的页面中的时候，也会检测到，并且弹窗警告，甚至报告学校。
 
-个人开发了一款专用的远程软件，使用极为方便，只需要启动软件即可，不需要更改系统注册表啊什么的，虚拟机也不需要，直接在物理机上就可以完成远程控制，可以说是一键式解决方案，有兴趣的小伙伴可以私信我！或者绿色软件搜索关键词：Wonderful_U_010224
+LDB在今年全面升级了黑屏保护（DRM），对于学校来说，学校的IT管理员可以轻松地将黑屏应用于每一场考试，而常见的远控软件要么被屏蔽，要么会被黑屏保护给屏蔽，从而无法获取考试界面。
+
+因此我们想要在LDB下进行远程控制，必须使用专门的软件来获取画面、控制键盘鼠标。
+
+我们团队开发了一款专门用于LDB下的远程控制软件，有专人来负责安装、配置软件并保证每一场考试的顺利进行。
+
+如果你有想绕过LDB来远程考试的需求，请联系我们。
+WeChat: Wonderful_U_010224
+Mail:   bfzgsz@foxmail.com
+
+Remote Software Specifically for LockDownBrowser
 
 
-First of all, LockDownBroswer disables most of the communication software and remote control software, so it is unlikely to bypass it by using QQ, WX, Sunflower or ToDesk.
+Hereinafter referred to as LockDownBrowser (LDB).
 
-Secondly, this software will detect whether you have screen switching and shortcut key behavior. The previous method of using win+TAB to switch desktops is indeed feasible, and you can indeed switch to other desktops. Then you will find that it is disgusting. It modifies the keyboard mapping relationship. For example, when you press A, you actually press other keys. Only when you return to its browser page, the key function is normal. So if you want to use shortcut keys to switch screens to check information, this method is no longer feasible. What's more, some schools not only use this software, but also require you to take offline exams, so what can you do? Even if you can switch screens, are you sure you won't be discovered by the invigilator and instructor? Even if you can't find it, some schools can set up reports when switching screens or warn first and then report to the instructor, and you can also set screenshots, so these methods are very risky.
+For those who have used LDB, you know that this software disables most social communication and remote control software, such as SunLogin, toDesk, rustDesk, WhatsApp, QQ, and WeChat. Moreover, whenever a remote control software attempts to establish a connection, a pop-up notification appears, which is easily detected by LDB, leading to screen capture and a report being sent to the school. If your network environment is unstable, it is highly likely that LDB will detect it.
 
-Moreover, mainstream remote software will pop up a window to remind the user that the user has been controlled when reconnecting. This pop-up window will be detected, which is a fatal problem under poor network conditions.
+Additionally, this software monitors whether you are switching screens or using shortcut keys. Previously, using Win+TAB could indeed switch desktops, but if LDB detects that you are not on its page, it will also trigger a detection, and a pop-up warning will appear, or it might even report to the school.
 
-I have developed a dedicated remote software.It is also very easy to use. You only need to start the software. You don’t need to change the system registry or a virtual machine. You can complete the remote control directly on the physical machine. It can be said to be a one-click solution. If you are interested, you can send me a private message! 
-Or contact me with 
+LDB has fully upgraded its black screen protection (DRM) this year. For schools, the IT administrators can easily apply black screen protection to every exam. Common remote control software is either blocked or cannot capture the exam interface due to the black screen protection.
+
+Therefore, if we want to perform remote control under LDB, we must use specialized software to capture the screen and control the keyboard and mouse.
+
+Our team has developed a remote control software specifically for use under LDB, with dedicated personnel responsible for installation, configuration, and ensuring the smooth conduct of every exam.
+
+If you have a need to bypass LDB for remote exams, please contact us.
 WeChat: Wonderful_U_010224
 Mail:   bfzgsz@foxmail.com
 
