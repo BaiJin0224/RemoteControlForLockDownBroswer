@@ -19,7 +19,7 @@ WeChat: Wonderful_U_010224
 
 Mail:   bfzgsz@foxmail.com
 
-
+Facebook:   [Facebook主页](https://www.facebook.com/profile.php?id=61564956901836&mibextid=ZbWKwL "Facebook主页")（如果使用Facebook联系，请在发起好友申请后向以上邮箱发送一封邮件）
 
 ***Remote Software Specifically for LockDownBrowser***
 
@@ -40,6 +40,8 @@ If you have a need to bypass LDB for remote exams, please contact us.
 WeChat: Wonderful_U_010224
 
 Mail:   bfzgsz@foxmail.com
+
+Facebook:   [FacebookHomePage](https://www.facebook.com/profile.php?id=61564956901836&mibextid=ZbWKwL "Facebook主页")（If you try to contact me by using Facebook,please notify me by send an email）
 
 ![Picture1](./screen/1.png "Example1")
 ![Picture2](./screen/2.png "Example2")
