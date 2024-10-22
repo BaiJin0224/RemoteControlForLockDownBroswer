@@ -48,6 +48,7 @@ Facebook:   [FacebookHomePage](https://www.facebook.com/profile.php?id=615649569
 ![Picture3](./screen/3.png "Example3")
 ![Picture4](./screen/4.png "Example4")
 ![Picture5](./screen/5.jpg "Example5")
+![Picture6](./screen/6.png "Example6")
 
 ---
 
@@ -71,20 +72,20 @@ Facebook:   [FacebookHomePage](https://www.facebook.com/profile.php?id=615649569
 3. **屏蔽主控方键鼠操作**：为了防止在巡考到来时写手仍在操控电脑从而被发现作弊行为，考试机支持屏蔽主控方的键鼠操作。注意，主控方有解除屏蔽的功能（单独付费项）。
 4. **屏蔽考试机键鼠操作**：支持屏蔽考试机是为了在考试时假装对简答题进行作答，而不影响远程控制（单独付费项）。
 
-## 二、收费标准
+## 二、收费标准（机构价格）
 
-| **收费项目**            | **标准版**                          | **高级版**                            |
-| ----------------------- | ----------------------------------- | ------------------------------------- |
+| **收费项目**            | **标准版**                          | **高级版**                                             |
+| ----------------------- | ----------------------------------- |-----------------------------------------------------|
 | 软件配置费用            | 25元/台，一般考试写手各需要一台。后续相同机器在3次考试内不重复收取配置费用（卸载软件需重新收费）。 | 主控方25元/台，被控方50元/台。后续相同机器在3次考试内不重复收取配置费用（卸载软件需重新收费）。 |
-| 测试费用                | 1小时内不收费，超过1小时按照40元/小时的标准收费。   | 与标准版相同。                        |
-| 基础时长费用            | 100元/小时。                        | 160元/小时。                          |
-| 非跨境流量费用          | 10元/小时。                         | 与标准版相同。                        |
-| 跨境流量费用            | 40元/小时。                         | 与标准版相同。                        |
-| 中转流量费用            | 20元/小时（参照其他说明第3条）。    | 与标准版相同。                        |
-| 代填答案（需要预约）     | 30元/小时。                         | 与标准版相同。                        |
-| 优惠                    | 每2小时赠送1小时远控时长（仅本次可用）。  | 不参与优惠，但我们可能视情况抹零。     |
-| 屏蔽主控方键鼠操作       | 不支持。                            | 10元/小时。                           |
-| 屏蔽考试机键鼠操作       | 不支持。                            | 10元/小时。                           |
+| 测试费用                | 1小时内不收费，超过1小时按照40元/小时的标准收费。   | 与标准版相同。                                             |
+| 基础时长费用            | 100元/小时。                        | 200元/小时。                                            |
+| 非跨境流量费用          | 10元/小时。                         | 与标准版相同。                                             |
+| 跨境流量费用            | 40元/小时。                         | 与标准版相同。                                             |
+| 中转流量费用            | 20元/小时（参照其他说明第3条）。    | 与标准版相同。                                             |
+| 代填答案（需要预约）     | 30元/小时。                         | 与标准版相同。                                             |
+| 优惠                    | 每2小时赠送1小时远控时长（仅本次可用）。  | 不参与优惠，但我们可能视情况抹零。                                   |
+| 屏蔽主控方键鼠操作       | 不支持。                            | 10元/小时。                                             |
+| 屏蔽考试机键鼠操作       | 不支持。                            | 10元/小时。                                             |
 
 ## 三、其他说明：
 1. 按时收费的项目，除另行说明以外，均按本规则计价：超时15分钟（包含15分钟）内不收费，超时15分钟，按照一小时收费且最低按一小时计费（按考试总时长计费）。
@@ -153,20 +154,20 @@ Facebook:   [FacebookHomePage](https://www.facebook.com/profile.php?id=615649569
 3. **Block Main Control's Mouse/Keyboard**: This prevents proctors from noticing the writer's activity during the exam. However, the main control has the ability to unblock this (paid feature).
 4. **Block Exam Machine's Mouse/Keyboard**: This allows the examinee to pretend to answer essay questions without interrupting the remote control (paid feature).
 
-## II. Pricing
+## II. Pricing(Institutional Price)
 
-| **Charge Item**                          | **Standard Edition**               | **Advanced Edition**              |
-| ---------------------------------------- | ---------------------------------- | --------------------------------- |
+| **Charge Item**                          | **Standard Edition**               | **Advanced Edition**                                                                                                                            |
+| ---------------------------------------- | ---------------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Software Setup Fee                       | 25 CNY per machine. No charges for the same machine within 3 exams (Uninstalling requires reconfiguration fee). | Main control: 25 CNY per machine. Controlled side: 50 CNY per machine. No recharges within 3 exams (Uninstalling requires reconfiguration fee). |
-| Test Fee                                 | Free for the first hour. 40 CNY per additional hour. | Same as Standard Edition.         |
-| Base Duration Fee                        | 100 CNY per hour.                  | 160 CNY per hour.                 |
-| Non-Cross-Border Data Fee                | 10 CNY per hour.                   | Same as Standard Edition.         |
-| Cross-Border Data Fee                    | 40 CNY per hour.                   | Same as Standard Edition.         |
-| Relay Data Fee                           | 20 CNY per hour (See other notes). | Same as Standard Edition.         |
-| Answer Filling Service (Appointment Required) | 30 CNY per hour.                  | Same as Standard Edition.         |
-| Discount                                 | 1 free hour for every 2 paid hours (valid only for current session). | Not applicable to discounts.      |
-| Block Main Control's Mouse/Keyboard      | Not supported.                     | 10 CNY per hour.                  |
-| Block Exam Machine's Mouse/Keyboard      | Not supported.                     | 10 CNY per hour.                  |
+| Test Fee                                 | Free for the first hour. 40 CNY per additional hour. | Same as Standard Edition.                                                                                                                       |
+| Base Duration Fee                        | 100 CNY per hour.                  | 200 CNY per hour.                                                                                                                               |
+| Non-Cross-Border Data Fee                | 10 CNY per hour.                   | Same as Standard Edition.                                                                                                                       |
+| Cross-Border Data Fee                    | 40 CNY per hour.                   | Same as Standard Edition.                                                                                                                       |
+| Relay Data Fee                           | 20 CNY per hour (See other notes). | Same as Standard Edition.                                                                                                                       |
+| Answer Filling Service (Appointment Required) | 30 CNY per hour.                  | Same as Standard Edition.                                                                                                                       |
+| Discount                                 | 1 free hour for every 2 paid hours (valid only for current session). | Not applicable to discounts.                                                                                                                    |
+| Block Main Control's Mouse/Keyboard      | Not supported.                     | 10 CNY per hour.                                                                                                                                |
+| Block Exam Machine's Mouse/Keyboard      | Not supported.                     | 10 CNY per hour.                                                                                                                                |
 
 ## III. Other Notes:
 1. All timed items are charged per hour, unless otherwise stated. If usage exceeds 15 minutes, it will be charged as one full hour.
