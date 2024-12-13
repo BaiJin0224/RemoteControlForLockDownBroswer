@@ -1,5 +1,9 @@
 LockDownBroswer专用远程软件
 
+# ⚠️ 通知：暂停新预约 ⚠️
+
+**因不可抗力原因，在 25 日之前将不接受新的预约。**
+
 以下简称LockDownBroswer为LDB
 
 用过LDB的小伙伴都知道，这款软件禁用了绝大多数的社交通讯软件与远程控制软件，比如向日葵、toDesk、rustDesk与WhatsApp、QQ、WeChat。
@@ -24,6 +28,11 @@ Mail:   bfzgsz@foxmail.com
 ***Remote Software Specifically for LockDownBrowser***
 
 Hereinafter referred to as LockDownBrowser (LDB).
+
+# ⚠️ Notice: No New Appointments ⚠️
+
+**Due to force majeure, no new appointments will be accepted before the 25th.**
+
 
 For those who have used LDB, you know that this software disables most social communication and remote control software, such as SunLogin, toDesk, rustDesk, WhatsApp, QQ, and WeChat. Moreover, whenever a remote control software attempts to establish a connection, a pop-up notification appears, which is easily detected by LDB, leading to screen capture and a report being sent to the school. If your network environment is unstable, it is highly likely that LDB will detect it.
 
