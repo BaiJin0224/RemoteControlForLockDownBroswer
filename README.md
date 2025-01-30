@@ -1,9 +1,5 @@
 LockDownBroswer专用远程软件
 
-# ⚠️ 通知：暂停新预约 ⚠️
-
-**因不可抗力原因，在 25 日之前将不接受新的预约。**
-
 以下简称LockDownBroswer为LDB
 
 用过LDB的小伙伴都知道，这款软件禁用了绝大多数的社交通讯软件与远程控制软件，比如向日葵、toDesk、rustDesk与WhatsApp、QQ、WeChat。
@@ -28,10 +24,6 @@ Mail:   bfzgsz@foxmail.com
 ***Remote Software Specifically for LockDownBrowser***
 
 Hereinafter referred to as LockDownBrowser (LDB).
-
-# ⚠️ Notice: No New Appointments ⚠️
-
-**Due to force majeure, no new appointments will be accepted before the 25th.**
 
 
 For those who have used LDB, you know that this software disables most social communication and remote control software, such as SunLogin, toDesk, rustDesk, WhatsApp, QQ, and WeChat. Moreover, whenever a remote control software attempts to establish a connection, a pop-up notification appears, which is easily detected by LDB, leading to screen capture and a report being sent to the school. If your network environment is unstable, it is highly likely that LDB will detect it.
@@ -130,7 +122,7 @@ Mail:   bfzgsz@foxmail.com
    是的，需要预约，最好是提前2天以上预约，这样若出现问题也有时间调整，如果当天预约的话，可能会腾不开人手来配置。
 
 5. **你们软件支持的分辨率为多少？**
-   目前主控方与被控方仅支持1080P（1920*1080）且不支持画面缩放功能，后续会逐渐支持更多的分辨率与画面缩放功能。
+   目前主控方与被控方支持任意分辨率，但不支持画面缩放功能，后续会逐渐支持画面缩放功能。
 
 6. **你们目前在哪里有架设服务器？**
    截止2024年10月4日，我们在以下地区架设了服务器，我们会根据被控方所在的地区来决定具体使用哪个服务器（就近原则）。
