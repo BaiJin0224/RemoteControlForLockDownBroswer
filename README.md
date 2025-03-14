@@ -55,8 +55,17 @@ Mail:   bfzgsz@foxmail.com
 ![Picture2](./screen/2.png "Example2")
 ![Picture3](./screen/3.png "Example3")
 ![Picture4](./screen/4.png "Example4")
-![Picture5](./screen/5.jpg "Example5")
 ![Picture6](./screen/6.png "Example6")
+![Picture6](./screen/7.jpg "Example8")
+![Picture6](./screen/8.jpg "Example8")
+![Picture6](./screen/9.jpg "Example9")
+![Picture6](./screen/10.jpg "Example10")
+
+更多截图请查看screen文件夹。
+
+
+For more screenshots, please check the "screen" folder.
+
 
 ---
 
